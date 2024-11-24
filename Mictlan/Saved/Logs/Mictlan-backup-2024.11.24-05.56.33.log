@@ -1,0 +1,1341 @@
+﻿Log file open, 11/23/24 23:53:33
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Mictlan
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 5.654658
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin StylusInput
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin HairStrands
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MeshModelingToolset
+LogPluginManager: Mounting plugin ModelingToolsEditorMode
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 5600X 6-Core Processor             , GPU: NVIDIA GeForce RTX 4060 Ti
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Epic/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2024.11.24-05.53.40:549][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2024.11.24-05.53.40:550][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2024.11.24-05.53.40:550][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Saved/Config/Windows/Engine.ini]
+[2024.11.24-05.53.40:550][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2024.11.24-05.53.40:550][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2024.11.24-05.53.40:550][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Saved/Config/Windows/Engine.ini]
+[2024.11.24-05.53.40:550][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Saved/Config/Windows/Engine.ini]
+[2024.11.24-05.53.40:550][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.11.24-05.53.40:550][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2024.11.24-05.53.40:550][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.11.24-05.53.40:550][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.11.24-05.53.40:550][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.11.24-05.53.40:550][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.11.24-05.53.40:550][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.11.24-05.53.40:550][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.11.24-05.53.40:550][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.11.24-05.53.40:550][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.11.24-05.53.40:550][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.11.24-05.53.40:550][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.11.24-05.53.40:550][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.11.24-05.53.40:550][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2024.11.24-05.53.40:550][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Saved/Config/Windows/Engine.ini]
+[2024.11.24-05.53.40:550][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.11.24-05.53.40:550][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.11.24-05.53.40:550][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2024.11.24-05.53.40:550][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.11.24-05.53.40:550][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2024.11.24-05.53.40:550][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2024.11.24-05.53.40:550][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2024.11.24-05.53.40:550][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.11.24-05.53.40:550][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2024.11.24-05.53.40:550][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2024.11.24-05.53.40:550][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2024.11.24-05.53.40:550][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2024.11.24-05.53.40:550][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2024.11.24-05.53.40:550][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2024.11.24-05.53.40:550][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Saved/Config/Windows/Engine.ini]
+[2024.11.24-05.53.40:550][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Saved/Config/Windows/Engine.ini]
+[2024.11.24-05.53.40:644][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Saved/Config/Windows/Scalability.ini]
+[2024.11.24-05.53.40:644][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.11.24-05.53.40:644][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.11.24-05.53.40:644][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Saved/Config/Windows/Scalability.ini]
+[2024.11.24-05.53.40:644][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.11.24-05.53.40:644][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Saved/Config/Windows/Scalability.ini]
+[2024.11.24-05.53.40:644][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.11.24-05.53.40:644][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.11.24-05.53.40:644][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.11.24-05.53.40:644][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.11.24-05.53.40:644][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.11.24-05.53.40:644][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.11.24-05.53.40:644][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.11.24-05.53.40:644][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.11.24-05.53.40:644][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.11.24-05.53.40:644][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.11.24-05.53.40:644][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.11.24-05.53.40:644][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.11.24-05.53.40:644][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.11.24-05.53.40:644][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.11.24-05.53.40:644][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.11.24-05.53.40:644][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.11.24-05.53.40:644][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.11.24-05.53.40:644][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.11.24-05.53.40:644][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Saved/Config/Windows/Scalability.ini]
+[2024.11.24-05.53.40:644][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.11.24-05.53.40:644][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.11.24-05.53.40:644][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.11.24-05.53.40:644][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Saved/Config/Windows/Scalability.ini]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Saved/Config/Windows/Scalability.ini]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.11.24-05.53.40:645][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2024.11.24-05.53.40:664][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Saved/Config/Windows/Scalability.ini]
+[2024.11.24-05.53.40:664][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.11.24-05.53.40:664][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.11.24-05.53.40:665][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Saved/Config/Windows/Scalability.ini]
+[2024.11.24-05.53.40:665][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.11.24-05.53.40:665][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.11.24-05.53.40:665][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.11.24-05.53.40:665][  0]LogConfig: Setting CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]]
+[2024.11.24-05.53.40:684][  0]LogInit: Selected Device Profile: [Windows]
+[2024.11.24-05.53.40:692][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2024.11.24-05.53.40:710][  0]LogHAL: Display: Platform has ~ 16 GB [17103052800 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.11.24-05.53.40:710][  0]LogInit: Going up to parent DeviceProfile []
+[2024.11.24-05.53.40:714][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Saved/Config/Windows/Scalability.ini]
+[2024.11.24-05.53.40:714][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.11.24-05.53.40:714][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.11.24-05.53.40:714][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Saved/Config/Windows/Scalability.ini]
+[2024.11.24-05.53.40:714][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.11.24-05.53.40:714][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Saved/Config/Windows/Scalability.ini]
+[2024.11.24-05.53.40:714][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.11.24-05.53.40:714][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.11.24-05.53.40:714][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.11.24-05.53.40:714][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.11.24-05.53.40:714][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.11.24-05.53.40:714][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.11.24-05.53.40:714][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.11.24-05.53.40:714][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.11.24-05.53.40:714][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.11.24-05.53.40:714][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.11.24-05.53.40:714][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.11.24-05.53.40:714][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.11.24-05.53.40:714][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.11.24-05.53.40:714][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.11.24-05.53.40:714][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.11.24-05.53.40:714][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.11.24-05.53.40:714][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.11.24-05.53.40:714][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.11.24-05.53.40:714][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Saved/Config/Windows/Scalability.ini]
+[2024.11.24-05.53.40:714][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.11.24-05.53.40:714][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.11.24-05.53.40:714][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.11.24-05.53.40:714][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.11.24-05.53.40:714][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.11.24-05.53.40:714][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Saved/Config/Windows/Scalability.ini]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Saved/Config/Windows/Scalability.ini]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Saved/Config/Windows/Scalability.ini]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Saved/Config/Windows/Scalability.ini]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Setting CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]]
+[2024.11.24-05.53.40:715][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.11.24-05.53.40:743][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2024.11.24-05.53.40:743][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2024.11.24-05.53.40:743][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2024.11.24-05.53.40:743][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Saved/Config/Windows/Engine.ini]
+[2024.11.24-05.53.40:743][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Saved/Config/Windows/Editor.ini]
+[2024.11.24-05.53.40:760][  0]LogInit: Computer: DESKTOP-6Q3L6DM
+[2024.11.24-05.53.40:760][  0]LogInit: User: jorge
+[2024.11.24-05.53.40:760][  0]LogInit: CPU Page size=4096, Cores=6
+[2024.11.24-05.53.40:760][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.11.24-05.53.40:760][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2024.11.24-05.53.40:760][  0]LogMemory: Platform Memory Stats for Windows
+[2024.11.24-05.53.40:760][  0]LogMemory: Process Physical Memory: 147.18 MB used, 147.18 MB peak
+[2024.11.24-05.53.40:760][  0]LogMemory: Process Virtual Memory: 130.32 MB used, 130.32 MB peak
+[2024.11.24-05.53.40:760][  0]LogMemory: Physical Memory: 5406.17 MB used,  10904.57 MB free, 16310.74 MB total
+[2024.11.24-05.53.40:760][  0]LogMemory: Virtual Memory: 134206392.00 MB used,  11333.51 MB free, 134217728.00 MB total
+[2024.11.24-05.53.40:766][  0]LogWindows: WindowsPlatformFeatures enabled
+[2024.11.24-05.53.41:641][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2024.11.24-05.53.41:664][  0]LogInit: Using OS detected language (es-MX).
+[2024.11.24-05.53.41:664][  0]LogInit: Using OS detected locale (es-MX).
+[2024.11.24-05.53.41:749][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/es-MX/Editor.locres' could not be opened for reading!
+[2024.11.24-05.53.41:749][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/es-MX/EditorTutorials.locres' could not be opened for reading!
+[2024.11.24-05.53.41:749][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/es-MX/Keywords.locres' could not be opened for reading!
+[2024.11.24-05.53.41:749][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/es-MX/Category.locres' could not be opened for reading!
+[2024.11.24-05.53.41:749][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/es-MX/ToolTips.locres' could not be opened for reading!
+[2024.11.24-05.53.41:750][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/es-MX/PropertyNames.locres' could not be opened for reading!
+[2024.11.24-05.53.41:750][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/es-MX/Engine.locres' could not be opened for reading!
+[2024.11.24-05.53.41:755][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/es-MX/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2024.11.24-05.53.41:755][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/es-MX/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2024.11.24-05.53.41:755][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/es-MX/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2024.11.24-05.53.41:919][  0]LogInit: Setting process to per monitor DPI aware
+[2024.11.24-05.53.42:162][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.11.24-05.53.42:554][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.11.24-05.53.42:555][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.11.24-05.53.45:500][  0]LogD3D12RHI: Aftermath initialized
+[2024.11.24-05.53.45:503][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2024.11.24-05.53.45:576][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.11.24-05.53.45:805][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 4060 Ti (Max supported Feature Level 12_1)
+[2024.11.24-05.53.45:805][  0]LogD3D12RHI: Adapter has 7949MB of dedicated video memory, 0MB of dedicated system memory, and 8155MB of shared system memory, 2 output[s]
+[2024.11.24-05.53.45:812][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1)
+[2024.11.24-05.53.45:812][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8155MB of shared system memory, 0 output[s]
+[2024.11.24-05.53.45:812][  0]LogD3D12RHI: Forcing D3D12.AsyncDeferredDeletion=0 as a workaround for a deadlock.
+[2024.11.24-05.53.45:812][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2024.11.24-05.53.45:820][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2024.11.24-05.53.45:820][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2024.11.24-05.53.45:921][  0]LogD3D12RHI: The system supports ID3D12Device1.
+[2024.11.24-05.53.45:921][  0]LogD3D12RHI: The system supports ID3D12Device2.
+[2024.11.24-05.53.45:921][  0]LogD3D12RHI: The system supports ID3D12Device5.
+[2024.11.24-05.53.45:921][  0]LogD3D12RHI: The system supports ID3D12Device7.
+[2024.11.24-05.53.45:921][  0]LogD3D12RHI: D3D12 ray tracing 1.0 is supported.
+[2024.11.24-05.53.45:921][  0]LogD3D12RHI: D3D12 ray tracing 1.1 is supported.
+[2024.11.24-05.53.45:965][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2024.11.24-05.53.45:971][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2024.11.24-05.53.45:985][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2024.11.24-05.53.45:994][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2024.11.24-05.53.45:994][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2024.11.24-05.53.46:155][  0]LogD3D12RHI:     GPU DeviceId: 0x2803 (for the marketing name, search the web for "GPU Device Id")
+[2024.11.24-05.53.46:155][  0]LogWindows: EnumDisplayDevices:
+[2024.11.24-05.53.46:155][  0]LogWindows:    0. 'NVIDIA GeForce RTX 4060 Ti' (P:1 D:1)
+[2024.11.24-05.53.46:155][  0]LogWindows:    1. 'NVIDIA GeForce RTX 4060 Ti' (P:0 D:1)
+[2024.11.24-05.53.46:156][  0]LogWindows:    2. 'NVIDIA GeForce RTX 4060 Ti' (P:0 D:0)
+[2024.11.24-05.53.46:156][  0]LogWindows:    3. 'NVIDIA GeForce RTX 4060 Ti' (P:0 D:0)
+[2024.11.24-05.53.46:156][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2024.11.24-05.53.46:156][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 4060 Ti
+[2024.11.24-05.53.46:156][  0]LogD3D12RHI:   Driver Version: 566.03 (internal:32.0.15.6603, unified:566.03)
+[2024.11.24-05.53.46:156][  0]LogD3D12RHI:      Driver Date: 10-15-2024
+[2024.11.24-05.53.46:156][  0]LogRHI: Texture pool is 4524 MB (70% of 6462 MB)
+[2024.11.24-05.53.46:156][  0]LogD3D12RHI: Async texture creation enabled
+[2024.11.24-05.53.46:156][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2024.11.24-05.53.46:565][  0]LogRHI: GeForceNow SDK initialized: 0
+[2024.11.24-05.53.47:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2024.11.24-05.53.47:871][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2024.11.24-05.53.47:871][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2024.11.24-05.53.47:871][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2024.11.24-05.53.47:871][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2024.11.24-05.53.47:871][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2024.11.24-05.53.47:871][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2024.11.24-05.53.47:871][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2024.11.24-05.53.47:871][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2024.11.24-05.53.47:871][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2024.11.24-05.53.47:871][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2024.11.24-05.53.48:023][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2024.11.24-05.53.48:023][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2024.11.24-05.53.48:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2024.11.24-05.53.48:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2024.11.24-05.53.48:155][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2024.11.24-05.53.48:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2024.11.24-05.53.48:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2024.11.24-05.53.48:288][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2024.11.24-05.53.48:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2024.11.24-05.53.48:370][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2024.11.24-05.53.48:370][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2024.11.24-05.53.48:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2024.11.24-05.53.48:460][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2024.11.24-05.53.48:484][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2024.11.24-05.53.48:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2024.11.24-05.53.48:536][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2024.11.24-05.53.48:536][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2024.11.24-05.53.48:587][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2024.11.24-05.53.48:617][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2024.11.24-05.53.48:666][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2024.11.24-05.53.48:717][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2024.11.24-05.53.48:717][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.11.24-05.53.48:989][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.11.24-05.53.49:470][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2024.11.24-05.53.50:173][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2024.11.24-05.53.50:201][  0]LogShaderCompilers: Guid format shader working directory is -12 characters bigger than the processId version (C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Intermediate/Shaders/WorkingDirectory/14224/).
+[2024.11.24-05.53.50:201][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jorge/AppData/Local/Temp/UnrealShaderWorkingDir/051F4E93481CC8F52FB83A9A61AD1CAD/'.
+[2024.11.24-05.53.50:207][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.11.24-05.53.50:207][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2024.11.24-05.53.50:207][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2024.11.24-05.53.55:025][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2024.11.24-05.53.55:124][  0]LogDerivedDataCache: Loaded boot cache 0.10s 94MB C:/Users/jorge/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2024.11.24-05.53.55:124][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jorge/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2024.11.24-05.53.55:124][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.11.24-05.53.55:124][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2024.11.24-05.53.55:124][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.11.24-05.53.55:124][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2024.11.24-05.53.55:232][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2024.11.24-05.53.55:232][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.11.24-05.53.55:232][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2024.11.24-05.53.55:286][  0]LogDerivedDataCache: Speed tests for C:/Users/jorge/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.05 seconds
+[2024.11.24-05.53.55:286][  0]LogDerivedDataCache: Display: Performance to C:/Users/jorge/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.22ms. RandomReadSpeed=20.84MBs, RandomWriteSpeed=125.99MBs. Assigned SpeedClass 'Local'
+[2024.11.24-05.53.55:289][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jorge/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.11.24-05.53.55:290][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.11.24-05.53.55:290][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2024.11.24-05.53.55:687][  0]LogShaderCompilers: Display: Submitted 602 shader compile jobs with 'High' priority
+[2024.11.24-05.53.55:789][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 602
+[2024.11.24-05.53.55:789][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 592
+[2024.11.24-05.53.55:789][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 582
+[2024.11.24-05.53.55:789][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 572
+[2024.11.24-05.53.55:789][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 562
+[2024.11.24-05.53.55:789][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 552
+[2024.11.24-05.53.55:789][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 542
+[2024.11.24-05.53.55:789][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 532
+[2024.11.24-05.53.55:789][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 522
+[2024.11.24-05.53.55:789][  0]LogShaderCompilers: Display: Started 90 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.53.55:789][  0]LogSlate: Using FreeType 2.10.0
+[2024.11.24-05.53.56:079][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.11.24-05.53.57:281][  0]LogAssetRegistry: FAssetRegistry took 0.0704 seconds to start up
+[2024.11.24-05.54.09:380][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 512
+[2024.11.24-05.54.09:380][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.09:380][  0]LogInit: Selected Device Profile: [Windows]
+[2024.11.24-05.54.09:380][  0]LogInit: Active device profile: [0000025E31A6A600][0000025E26318FC0 49] Windows
+[2024.11.24-05.54.09:380][  0]LogInit: Profiles: [0000025E31A6A600][0000025E26318FC0 49] Windows, [0000025E31A64200][0000025E2B3BB140 49] WindowsNoEditor, [0000025E31A6AD00][0000025E2B3BF2C0 49] WindowsServer, [0000025E31A66A00][0000025E2B3C3440 49] WindowsClient, [0000025E31A6B200][0000025E2B3C75C0 49] IOS, [0000025E31A66800][0000025E2B3CB740 49] iPadAir, [0000025E31A68E00][0000025E2B3CF8C0 49] iPadAir2, [0000025E31A0E000][0000025E2EF1FB00 49] IPadPro, [0000025E31A0E100][0000025E2B3B7B40 49] iPadAir3, [0000025E31A6B100][0000025E2EF22100 49] iPadAir4, [0000025E31A0E400][0000025E2EF2A280 49] iPadMini2, [0000025E31A69000][0000025E2EF2E400 49] iPadMini3, [0000025E31A0DD00][0000025E2EF32580 49] iPadMini4, [0000025E31A6B400][0000025E2EF36700 49] iPadMini5, [0000025E31A61900][0000025E2EF3E9C0 49] iPhone6, [0000025E31A61A00][0000025E2EF3AA00 49] iPodTouch6, [0000025E31A0D600][0000025E2EF46CC0 49] iPhone7, [0000025E31A0D800][0000025E2EF42D00 49] iPodTouch7, [0000025E31A61B00][0000025E2EF4AE80 49] iPhone5S, [0000025E31A0DE00][0000025E2EF4F000 49] iPhone6Plus, [0000025E31A61E00][0000025E2EF53180 49] iPhone6S, [0000025E31A0C100][0000025E2EF57300 49] iPhone6SPlus, [0000025E31A63D00][0000025E2EF5B480 49] iPhone7Plus, [0000025E31A0E300][0000025E2EF5F600 49] iPhoneSE, [0000025E31A63A00][0000025E2EF63780 49] iPhone8, [0000025E31A0E200][0000025E2EF67900 49] iPhone8Plus, [0000025E31A60400][0000025E303A1A80 49] iPhoneX, [0000025E31A0F000][0000025E2EF27BC0 49] iPhoneXS, [0000025E31A62900][0000025E303A4180 49] iPhoneXSMax, [0000025E31A0C500][0000025E303A82C0 49] iPhoneXR, [0000025E31A61200][0000025E303B0440 49] iPhone11, [0000025E31A0D100][0000025E303B45C0 49] iPhone11Pro, [0000025E31A60E00][0000025E303B8740 49] iPhone11ProMax, [0000025E31A0E500][0000025E303BC8C0 49] iPhoneSE2, [0000025E31A61600][0000025E303C0A40 49] iPhone12Mini, [0000025E31A0C400][0000025E303C4BC0 49] iPhone12, [0000025E31A62E00][0000025E303C8D40 49] iPhone12Pro, [0000025E31A0FF00][0000025E303CCEC0 49] iPhone12ProMax, [0000025E31A61C00][0000025E303D1040 49] iPadPro105, [0000025E31A0C300][0000025E303D51C0 49] iPadPro129, [0000025E31A60600][0000025E303D9340 49] iPadPro97, [0000025E31A0F300][0000025E303DD4C0 49] iPadPro2_129, [0000025E31A60200][0000025E303E1640 49] iPad5, [0000025E31A0D400][0000025E303E57C0 49] iPad6, [0000025E31A63900][0000025E303E9940 49] iPad7, [0000025E31A0DF00][0000025E303EDAC0 49] iPad8, [0000025E31AF0300][0000025E324000C0 49] iPadPro11, [0000025E31A65900][0000025E303AC200 49] iPadPro2_11, [0000025E31AF0A00][0000025E32404340 49] iPadPro3_129, [0000025E31A67100][0000025E32408480 49] iPadPro4_129, [0000025E31AF1A00][0000025E3240C5C0 49] AppleTV, [0000025E31A66700][0000025E32414740 49] AppleTV4K, [0000025E31AF0D00][0000025E324188C0 49] TVOS, [0000025E31A62300][0000025E3241CA40 49] Mac, [0000025E31A0C700][0000025E32420BC0 49] MacClient, [0000025E31A60700][0000025E32424D40 49] MacNoEditor, [0000025E31A0D300][0000025E32428EC0 49] MacServer, [0000025E31A61800][0000025E3242D040 49] Linux, [0000025E31A0DA00][0000025E324311C0 49] LinuxAArch64, [0000025E31A63700][0000025E32435340 49] LinuxNoEditor, [0000025E31A0F400][0000025E324394C0 49] LinuxAArch64NoEditor, [0000025E31A63400][0000025E3243D640 49] LinuxClient, [0000025E31A0EA00][0000025E324417C0 49] LinuxAArch64Client, [0000025E31A61100][0000025E32445940 49] LinuxServer, [0000025E31A0FC00][0000025E32449AC0 49] LinuxAArch64Server, [0000025E31A62000][0000025E3244C0C0 49] Android, [0000025E31A0F500][0000025E32450240 49] Android_Low, [0000025E31A63C00][0000025E32410380 49] Android_Mid, [0000025E31A0F800][0000025E324544C0 49] Android_High, [0000025E31A61000][0000025E32458600 49] Android_Default, [0000025E31A0EB00][0000025E3245C740 49] Android_Adreno4xx, [0000025E31A63100][0000025E324648C0 49] Android_Adreno5xx_Low, [0000025E31A0F600][0000025E32468A40 49] Android_Adreno5xx, [0000025E31A62A00][0000025E3246CBC0 49] Android_Adreno6xx, [0000025E31A0F200][0000025E32470D40 49] Android_Adreno6xx_Vulkan, [0000025E31AF1200][0000025E32474EC0 49] Android_Mali_T6xx, [0000025E31A0EC00][0000025E32479040 49] Android_Mali_T7xx, [0000025E31AF0400][0000025E3247D1C0 49] Android_Mali_T8xx, [0000025E31A0FE00][0000025E32481340 49] Android_Mali_G71, [0000025E31A63300][0000025E324854C0 49] Android_Mali_G72, [0000025E31A0E800][0000025E32489640 49] Android_Mali_G72_Vulkan, [0000025E31A61400][0000025E3248D7C0 49] Android_Mali_G76, [0000025E31A0E900][0000025E32491940 49] Android_Mali_G76_Vulkan, [0000025E31A62200][0000025E32495AC0 49] Android_Mali_G77, [0000025E31A0D500][0000025E324980C0 49] Android_Mali_G77_Vulkan, [0000025E31A62400][0000025E3249C240 49] Android_Mali_G78, [0000025E31A0C800][0000025E324A03C0 49] Android_Mali_G78_Vulkan, [0000025E31A60900][0000025E324A4540 49] Android_Mali_G710, [0000025E31A0CF00][0000025E32460680 49] Android_Mali_G710_Vulkan, [0000025E31A62700][0000025E324A87C0 49] Android_Vulkan_SM5, [0000025E31A0FA00][0000025E324AC900 49] Android_PowerVR_G6xxx, [0000025E31A62B00][0000025E324B4A80 49] Android_PowerVR_GT7xxx, [0000025E31A0D700][0000025E324B8C00 49] Android_PowerVR_GE8xxx, [0000025E31A63E00][0000025E324BCD80 49] Android_PowerVR_GM9xxx, [0000025E31A0E700][0000025E324C0F00 49] Android_PowerVR_GM9xxx_Vulkan, [0000025E31A61300][0000025E324C5080 49] Android_TegraK1, [0000025E31A65600][0000025E324C9200 49] Android_Unknown_Vulkan, [0000025E31A63500][0000025E324CD380 49] Lumin, [0000025E31A6BB00][0000025E324D1500 49] Lumin_Desktop, [0000025E31A0CB00][0000025E324D5680 49] HoloLens, 
+[2024.11.24-05.54.10:146][  0]LogMaterial: Display: Missing cached shadermap for WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: B0ABD71BE39080A2B6884212222156BB87ACE5E2), compiling. Is special engine material.
+[2024.11.24-05.54.11:262][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 502
+[2024.11.24-05.54.11:262][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.11:262][  0]LogShaderCompilers: Display: Submitted 1234 shader compile jobs with 'High' priority
+[2024.11.24-05.54.11:825][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1726
+[2024.11.24-05.54.11:825][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.11:825][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1716
+[2024.11.24-05.54.11:825][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.12:386][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1706
+[2024.11.24-05.54.12:386][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.13:508][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 1696
+[2024.11.24-05.54.13:508][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.17:435][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1686
+[2024.11.24-05.54.17:435][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.18:556][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1676
+[2024.11.24-05.54.18:556][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.19:117][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1666
+[2024.11.24-05.54.19:117][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.19:117][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1656
+[2024.11.24-05.54.19:117][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.23:045][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 1646
+[2024.11.24-05.54.23:045][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.23:045][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1636
+[2024.11.24-05.54.23:045][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.23:606][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1626
+[2024.11.24-05.54.23:606][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.24:167][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1616
+[2024.11.24-05.54.24:167][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.25:289][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1606
+[2024.11.24-05.54.25:289][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.25:850][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1596
+[2024.11.24-05.54.25:850][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.26:972][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1586
+[2024.11.24-05.54.26:972][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Animations/ABP_Manny.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Animations/ABP_Quinn.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Animations/Manny/MM_Idle.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Animations/Manny/MM_Jump.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Animations/Manny/MM_Land.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Animations/Quinn/BS_MF_Unarmed_WalkRun.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Animations/Quinn/MF_Idle.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Materials/M_Mannequin.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Materials/Functions/CA_Mannequin.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Materials/Functions/ChromaticCurve.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Materials/Functions/MF_logo3layers.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Materials/Functions/MF_Diffraction.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Materials/Functions/ML_BaseColorFallOff.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Meshes/Mannequin_LODSettings.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Meshes/SKM_Manny.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Meshes/SKM_Manny_Simple.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/ABP_Quinn_PostProcess.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/IK_Mannequin.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/PA_Mannequin.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Meshes/SKM_Quinn.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_pose.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/RTG_Mannequin.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_pose.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_pose.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_pose.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_pose.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_pose.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_pose.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_pose.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_pose.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_pose.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_pose.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_pose.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_pose.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_pose.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.uasset is too old
+[2024.11.24-05.54.32:022][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_pose.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/CR_Mannequin_Body.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_pose.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_pose.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_pose.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_pose.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_pose.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_pose.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_pose.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_pose.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_pose.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_pose.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_pose.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_pose.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_D.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_MSR_MSK.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_N.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_Tan.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_ASAOPMASK_MSK.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_BN.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_CCRCCPlastic_MSK.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_D.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_MSR_MSK.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_N.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_Tan.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_BN.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_D.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_MSR_MSK.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_pose.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_N.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_ASAOMASK_MSK.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_CCRCCPlastic_MSK.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_BN.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_D.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_MSR_MSK.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_N.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_Tan.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_Tan.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_CCRCCPlastic_MSK.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Textures/Shared/T_UE_Logo_M.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequin_UE4/Animations/Jog_Fwd.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequin_UE4/Materials/Layers/ML_Latex_Black.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige_Logo.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequin_UE4/Materials/Layers/ML_SoftMetal.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_PhysicsAsset.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_Skeleton.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequin_UE4/Rigs/IK_UE4_Mannequin.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.uasset is too old
+[2024.11.24-05.54.32:584][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequin_UE4/Rigs/RTG_UE5Manny_UE4Manny.uasset is too old
+[2024.11.24-05.54.32:585][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01.uasset is too old
+[2024.11.24-05.54.32:585][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01_N.uasset is too old
+[2024.11.24-05.54.32:585][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_D.uasset is too old
+[2024.11.24-05.54.32:585][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_N.uasset is too old
+[2024.11.24-05.54.32:585][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin_MAT_MASKA.uasset is too old
+[2024.11.24-05.54.32:585][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.uasset is too old
+[2024.11.24-05.54.32:585][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.uasset is too old
+[2024.11.24-05.54.32:585][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_ASAOMASK_MSK.uasset is too old
+[2024.11.24-05.54.32:585][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 1576
+[2024.11.24-05.54.32:585][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.34:268][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1566
+[2024.11.24-05.54.34:268][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.34:268][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1556
+[2024.11.24-05.54.34:268][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.34:268][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1546
+[2024.11.24-05.54.34:268][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.34:828][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1536
+[2024.11.24-05.54.34:828][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.35:950][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1526
+[2024.11.24-05.54.35:950][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.35:950][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1516
+[2024.11.24-05.54.35:950][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.37:071][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin__normals.uasset is too old
+[2024.11.24-05.54.37:071][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequin_UE4/Textures/T_UELogo_Mask.uasset is too old
+[2024.11.24-05.54.37:071][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/Characters/Mannequin_UE4/Textures/T_UELogo_N_TGA.uasset is too old
+[2024.11.24-05.54.37:633][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1506
+[2024.11.24-05.54.37:633][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.38:755][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/LevelPrototyping/Materials/MF_ProcGrid.uasset is too old
+[2024.11.24-05.54.38:755][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02.uasset is too old
+[2024.11.24-05.54.38:755][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.uasset is too old
+[2024.11.24-05.54.38:755][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/LevelPrototyping/Materials/MI_Solid_Blue.uasset is too old
+[2024.11.24-05.54.38:755][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset is too old
+[2024.11.24-05.54.38:755][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/LevelPrototyping/Meshes/SM_Cylinder.uasset is too old
+[2024.11.24-05.54.38:755][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset is too old
+[2024.11.24-05.54.38:755][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/LevelPrototyping/Materials/M_Solid.uasset is too old
+[2024.11.24-05.54.38:755][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/LevelPrototyping/Textures/T_GridChecker_A.uasset is too old
+[2024.11.24-05.54.38:755][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/LevelPrototyping/Meshes/SM_Ramp.uasset is too old
+[2024.11.24-05.54.38:755][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Demo/Animations/A_MF_Run_Fwd.uasset is too old
+[2024.11.24-05.54.38:755][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Demo/Animations/A_MF_Walk_Fwd.uasset is too old
+[2024.11.24-05.54.38:755][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Demo/CBP_QuantumCharacter.uasset is too old
+[2024.11.24-05.54.38:755][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Demo/Animations/A_MM_Fall_Loop.uasset is too old
+[2024.11.24-05.54.38:755][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Demo/Animations/A_MM_Idle.uasset is too old
+[2024.11.24-05.54.38:755][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset is too old
+[2024.11.24-05.54.38:755][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Demo/Animations/A_MM_Jump.uasset is too old
+[2024.11.24-05.54.38:755][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Demo/Animations/A_MM_Run_Fwd.uasset is too old
+[2024.11.24-05.54.38:755][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Demo/Animations/A_MM_Walk_Fwd.uasset is too old
+[2024.11.24-05.54.38:755][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Demo/Animations/A_MM_Land.uasset is too old
+[2024.11.24-05.54.38:755][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Map/Map.umap is too old
+[2024.11.24-05.54.38:755][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Demo/Animations/A_Preset_Pose_0.uasset is too old
+[2024.11.24-05.54.38:755][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Materials/M_Arms.uasset is too old
+[2024.11.24-05.54.38:755][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/LevelPrototyping/Meshes/SM_Cube.uasset is too old
+[2024.11.24-05.54.38:755][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset is too old
+[2024.11.24-05.54.38:755][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Demo/Animations/A_MM_Walk_InPlace.uasset is too old
+[2024.11.24-05.54.38:755][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Map/Map_HLOD0_Instancing.uasset is too old
+[2024.11.24-05.54.39:877][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1496
+[2024.11.24-05.54.39:877][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.40:999][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1486
+[2024.11.24-05.54.40:999][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.41:559][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1476
+[2024.11.24-05.54.41:559][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.41:559][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1466
+[2024.11.24-05.54.41:559][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.42:124][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1456
+[2024.11.24-05.54.42:124][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.42:692][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1446
+[2024.11.24-05.54.42:693][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.43:257][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1436
+[2024.11.24-05.54.43:257][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.43:821][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 1426
+[2024.11.24-05.54.43:821][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.44:382][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Materials/M_Body.uasset is too old
+[2024.11.24-05.54.44:382][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Materials/M_Bulletproof_Bege.uasset is too old
+[2024.11.24-05.54.44:382][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Materials/M_Cap_Bege.uasset is too old
+[2024.11.24-05.54.44:382][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Materials/M_Eyeball.uasset is too old
+[2024.11.24-05.54.44:382][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Materials/M_Head.uasset is too old
+[2024.11.24-05.54.44:382][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Materials/M_Holster_Hard_Bege.uasset is too old
+[2024.11.24-05.54.44:382][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Materials/M_Eye_Sclera.uasset is too old
+[2024.11.24-05.54.44:382][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Materials/M_Pistol.uasset is too old
+[2024.11.24-05.54.44:382][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Materials/M_Jeasn.uasset is too old
+[2024.11.24-05.54.44:382][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Materials/M_Rifle_Olive.uasset is too old
+[2024.11.24-05.54.44:382][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Materials/Eye/MI_EyeRefractive_Inst.uasset is too old
+[2024.11.24-05.54.44:382][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Materials/Eye/ML_EyeRefraction.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Materials/Eye/M_Eye.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Mesh/Body/PA_Body_Full_PhysicsAsset.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Mesh/Body/PA_Head_PhysicsAsset.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Mesh/Body/SKM_Head.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Mesh/Modules/PA_Arms.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Mesh/Modules/PA_Bulletproof_Physics.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Mesh/Modules/PA_Drops_1_Physics.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Mesh/Modules/PA_Holster_Hard_Bege_Physics.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Mesh/Modules/PA_Jeans.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Mesh/Modules/PA_Patch_Back_Physics.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Mesh/Modules/PA_Shirt_RolledUp.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Materials/M_Eyelashesh.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Mesh/Modules/SKM_Arms.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Mesh/Modules/SKM_Holster_Hard_Bege.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Mesh/Modules/SKM_Jeans.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Mesh/Modules/SKM_Patch_Back.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Mesh/Modules/SKM_Shirt_RolledUp_Blue.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Mesh/Modules/SKM_Bulletproof_Bege.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Materials/M_Drops_Tactical_Bege.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Arms/T_Arms_Alpha.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Arms/T_Arms_BC.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Arms/T_Arms_N.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Arms/T_Arms_ORM.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Body/T_Body_BC.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Body/T_Body_N.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Body/T_Body_ORM.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Body/T_Eyeball_.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Body/T_Eyeball_BC.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Body/T_Eyeball_N.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Body/T_Eyelashesh_BC.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Body/T_Eyelashesh_N.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Materials/M_Teeth.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Body/T_Head_BC.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Body/T_Head_ORM.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Body/T_Head_Unity_N.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Body/T_Teeth_BC.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Body/T_Teeth_N.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Body/T_Teeth_ORM.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Bulletproof/T_Bulletproof_Bege_BC.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Bulletproof/T_Bulletproof_N.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Mesh/Body/SKM_Body_Full.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Cap/T_Cap_Bege_BC.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Cap/T_Cap_N.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Cap/T_Cap_ORM.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Drops/T_Drops_Tactical_Bege_BC.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Drops/T_Drops_Tactical_N.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Drops/T_Drops_Tactical_ORM.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Eye/SSP_EyeInner_Profile.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Mesh/PA_QuantumCharacter.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Eye/T_EyeMidPlaneDisplacement_Example.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Eye/T_EyeScleraBC.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Mesh/SKM_QuantumCharacter.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Eye/T_Eye_Wet_N.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Eye/T_Sphere_EYE_N.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Holster_Hard/T_Holster_Hard_Bege_BC.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Holster_Hard/T_Holster_Hard_N.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Holster_Hard/T_Holster_Hard_ORM.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Jeans/T_Jeans_Beje_BaseColor.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Jeans/T_Jeans_Normal.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Jeans/T_Jeans_OcclusionRoughnessMetallic.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/MetaHuman_Msk/T_MetaHuman_Body_Arms_Long_Msk.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/MetaHuman_Msk/T_MetaHuman_Body_Arms_Short_Msk.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Mesh/SK_Military_Character_Skeleton.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/MetaHuman_Msk/T_Metahuman_Head_Msk.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Mesh/Modules/SM_Cap_Bege.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Patches/T_Patches_N.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Patches/T_Patches_ORM.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Pistol/T_Pistol_BC.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Pistol/T_Pistol_N.uasset is too old
+[2024.11.24-05.54.44:942][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Pistol/T_Pistol_ORM.uasset is too old
+[2024.11.24-05.54.45:504][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Rifle/T_Rifle_Olive_BaseColor.uasset is too old
+[2024.11.24-05.54.45:504][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Rifle/T_Rifle_Olive_Normal.uasset is too old
+[2024.11.24-05.54.45:504][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Rifle/T_Rifle_Olive_OcclusionRoughnessMetallic.uasset is too old
+[2024.11.24-05.54.45:504][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Shirt_RolledUp/T_Shirt_RolledUp_Blue_BaseColor.uasset is too old
+[2024.11.24-05.54.45:504][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Shirt_RolledUp/T_Shirt_RolledUp_Normal.uasset is too old
+[2024.11.24-05.54.45:504][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Eye/T_EYE_N.uasset is too old
+[2024.11.24-05.54.45:504][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/ShooterAnimations/ABP_Shooter.uasset is too old
+[2024.11.24-05.54.45:504][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/MetaHuman_Msk/T_MetaHuman_Body_Wirst_Msk.uasset is too old
+[2024.11.24-05.54.45:504][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/ShooterAnimations/Fire_Rifle_Ironsights.uasset is too old
+[2024.11.24-05.54.45:504][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/ShooterAnimations/Idle_Rifle_Hip.uasset is too old
+[2024.11.24-05.54.45:504][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/ShooterAnimations/Idle_Rifle_Ironsights.uasset is too old
+[2024.11.24-05.54.45:504][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Shirt_RolledUp/T_Shirt_RolledUp_OcclusionRoughnessMetallic.uasset is too old
+[2024.11.24-05.54.45:504][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/ShooterAnimations/Jog_Fwd_Rifle.uasset is too old
+[2024.11.24-05.54.45:504][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/ShooterAnimations/ShooterBlendSpace1D.uasset is too old
+[2024.11.24-05.54.45:504][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Patches/T_Patches_BaseColor.uasset is too old
+[2024.11.24-05.54.45:504][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset is too old
+[2024.11.24-05.54.45:504][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/StarterContent/Blueprints/BP_LightStudio.uasset has newer custom version of FortniteMain
+[2024.11.24-05.54.45:504][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Body/T_Eyelashesh_ORM.uasset is too old
+[2024.11.24-05.54.45:504][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Bulletproof/T_Bulletproof_ORM.uasset is too old
+[2024.11.24-05.54.45:504][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Textures/Eye/T_EyeIriBC.uasset is too old
+[2024.11.24-05.54.46:626][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1416
+[2024.11.24-05.54.46:626][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.47:748][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1406
+[2024.11.24-05.54.47:748][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.47:748][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 1396
+[2024.11.24-05.54.47:748][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.48:870][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1386
+[2024.11.24-05.54.48:870][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.48:870][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1376
+[2024.11.24-05.54.48:870][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.49:993][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1366
+[2024.11.24-05.54.49:993][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.50:578][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Materials/M_Shirt_RolledUp_Blue.uasset is too old
+[2024.11.24-05.54.50:578][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Mesh/Modules/SKM_Drops_1_Bege.uasset is too old
+[2024.11.24-05.54.50:578][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Materials/M_Patches.uasset is too old
+[2024.11.24-05.54.50:578][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/QuantumCharacter/Mesh/Rifle/SM_Rifle_Olive.uasset is too old
+[2024.11.24-05.54.50:578][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1356
+[2024.11.24-05.54.50:578][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.51:144][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset is too old
+[2024.11.24-05.54.51:144][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset is too old
+[2024.11.24-05.54.51:144][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/__ExternalObjects__/QuantumCharacter/Map/Map/3/AK/85EMGZ18WJGOQ1B9RAR6DI.uasset is too old
+[2024.11.24-05.54.51:144][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/__ExternalObjects__/QuantumCharacter/Map/Map/8/TW/78T9FLDXY8YQ94VXORHM2X.uasset is too old
+[2024.11.24-05.54.51:144][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/__ExternalObjects__/QuantumCharacter/Map/Map/8/9R/X4NZHGYLEBD0NJKCR0ZAFI.uasset is too old
+[2024.11.24-05.54.51:144][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/__ExternalObjects__/QuantumCharacter/Map/Map/B/IC/LML10W36JT3UCAHK2C3MQ5.uasset is too old
+[2024.11.24-05.54.51:144][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L.uasset is too old
+[2024.11.24-05.54.51:144][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset is too old
+[2024.11.24-05.54.51:144][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/__ExternalObjects__/QuantumCharacter/Map/Map/D/01/FOH1WSAIWVZZK6EFM361M3.uasset is too old
+[2024.11.24-05.54.51:144][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A.uasset is too old
+[2024.11.24-05.54.51:144][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset is too old
+[2024.11.24-05.54.51:144][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset is too old
+[2024.11.24-05.54.51:144][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset is too old
+[2024.11.24-05.54.51:144][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/ThirdPerson/Maps/ThirdPersonMap.umap is too old
+[2024.11.24-05.54.51:708][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1346
+[2024.11.24-05.54.51:708][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.52:274][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1336
+[2024.11.24-05.54.52:274][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.52:274][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 1326
+[2024.11.24-05.54.52:274][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.52:842][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1316
+[2024.11.24-05.54.52:842][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.52:842][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1306
+[2024.11.24-05.54.52:842][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.53:966][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1296
+[2024.11.24-05.54.53:966][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.54:527][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1286
+[2024.11.24-05.54.54:527][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.55:088][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1276
+[2024.11.24-05.54.55:088][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.56:209][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1266
+[2024.11.24-05.54.56:209][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.56:209][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1256
+[2024.11.24-05.54.56:209][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.57:330][  0]LogAssetRegistry: Error: Package C:/Users/jorge/OneDrive/Documentos/GitHub/Mictlan/Mictlan/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset is too old
+[2024.11.24-05.54.58:450][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 1246
+[2024.11.24-05.54.58:450][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.58:450][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1236
+[2024.11.24-05.54.58:450][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.54.59:011][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1226
+[2024.11.24-05.54.59:011][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.00:133][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1216
+[2024.11.24-05.55.00:133][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.00:693][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1206
+[2024.11.24-05.55.00:693][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.01:254][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1196
+[2024.11.24-05.55.01:254][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.02:376][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1186
+[2024.11.24-05.55.02:376][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.04:060][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 1176
+[2024.11.24-05.55.04:060][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.04:060][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1166
+[2024.11.24-05.55.04:060][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.04:622][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1156
+[2024.11.24-05.55.04:622][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.05:184][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1146
+[2024.11.24-05.55.05:184][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.07:428][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1136
+[2024.11.24-05.55.07:428][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.07:989][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1126
+[2024.11.24-05.55.07:989][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.07:989][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1116
+[2024.11.24-05.55.07:989][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.09:111][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 1106
+[2024.11.24-05.55.09:111][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.09:672][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1096
+[2024.11.24-05.55.09:672][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.10:233][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1086
+[2024.11.24-05.55.10:233][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.10:233][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1076
+[2024.11.24-05.55.10:233][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.12:478][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1066
+[2024.11.24-05.55.12:478][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.13:039][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1056
+[2024.11.24-05.55.13:039][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.13:039][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 1046
+[2024.11.24-05.55.13:039][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.13:600][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1036
+[2024.11.24-05.55.13:600][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.14:160][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1026
+[2024.11.24-05.55.14:160][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.14:160][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1016
+[2024.11.24-05.55.14:160][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.15:282][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1006
+[2024.11.24-05.55.15:282][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.16:966][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 996
+[2024.11.24-05.55.16:966][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.18:088][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 986
+[2024.11.24-05.55.18:088][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.19:209][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 976
+[2024.11.24-05.55.19:209][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.20:331][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 966
+[2024.11.24-05.55.20:331][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.20:331][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 956
+[2024.11.24-05.55.20:331][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.20:892][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 946
+[2024.11.24-05.55.20:892][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.20:892][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 936
+[2024.11.24-05.55.20:892][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.21:453][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 926
+[2024.11.24-05.55.21:453][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.23:136][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 916
+[2024.11.24-05.55.23:136][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.23:697][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 906
+[2024.11.24-05.55.23:697][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.24:257][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 896
+[2024.11.24-05.55.24:257][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.25:379][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 886
+[2024.11.24-05.55.25:379][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.25:940][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 876
+[2024.11.24-05.55.25:940][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.27:063][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 866
+[2024.11.24-05.55.27:063][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.29:307][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 856
+[2024.11.24-05.55.29:307][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.30:429][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 846
+[2024.11.24-05.55.30:429][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.30:429][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 836
+[2024.11.24-05.55.30:429][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.31:552][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 826
+[2024.11.24-05.55.31:552][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.31:552][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 816
+[2024.11.24-05.55.31:552][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.32:113][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 806
+[2024.11.24-05.55.32:113][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.33:235][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 796
+[2024.11.24-05.55.33:235][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.36:039][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 786
+[2024.11.24-05.55.36:039][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.36:039][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 776
+[2024.11.24-05.55.36:039][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.37:158][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 766
+[2024.11.24-05.55.37:158][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.37:719][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 756
+[2024.11.24-05.55.37:719][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.38:279][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 746
+[2024.11.24-05.55.38:279][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.38:279][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 736
+[2024.11.24-05.55.38:279][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.41:084][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 726
+[2024.11.24-05.55.41:084][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.42:767][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 716
+[2024.11.24-05.55.42:767][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.43:328][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 706
+[2024.11.24-05.55.43:328][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.45:015][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 696
+[2024.11.24-05.55.45:015][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.45:015][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 686
+[2024.11.24-05.55.45:015][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.47:262][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 676
+[2024.11.24-05.55.47:262][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.47:824][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 666
+[2024.11.24-05.55.47:824][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.47:824][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 656
+[2024.11.24-05.55.47:824][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.48:947][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 646
+[2024.11.24-05.55.48:947][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.51:196][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 636
+[2024.11.24-05.55.51:196][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.51:196][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 626
+[2024.11.24-05.55.51:196][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.52:884][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 616
+[2024.11.24-05.55.52:884][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.53:447][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 606
+[2024.11.24-05.55.53:447][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.53:447][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 596
+[2024.11.24-05.55.53:447][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.55:132][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 586
+[2024.11.24-05.55.55:132][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.57:375][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 576
+[2024.11.24-05.55.57:375][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.58:500][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 566
+[2024.11.24-05.55.58:500][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.59:061][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 556
+[2024.11.24-05.55.59:061][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.55.59:622][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 546
+[2024.11.24-05.55.59:622][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.00:746][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 536
+[2024.11.24-05.56.00:746][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.01:307][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 526
+[2024.11.24-05.56.01:307][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.02:430][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 516
+[2024.11.24-05.56.02:430][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.03:551][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 506
+[2024.11.24-05.56.03:551][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.05:795][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 496
+[2024.11.24-05.56.05:795][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.06:360][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 486
+[2024.11.24-05.56.06:360][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.06:921][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 476
+[2024.11.24-05.56.06:921][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.07:482][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 466
+[2024.11.24-05.56.07:482][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.08:044][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 456
+[2024.11.24-05.56.08:044][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.08:605][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 446
+[2024.11.24-05.56.08:605][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.10:288][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 436
+[2024.11.24-05.56.10:288][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.10:288][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 426
+[2024.11.24-05.56.10:288][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.10:288][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 416
+[2024.11.24-05.56.10:288][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.10:850][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 406
+[2024.11.24-05.56.10:850][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.11:411][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 396
+[2024.11.24-05.56.11:411][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.11:411][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 386
+[2024.11.24-05.56.11:411][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.11:972][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 376
+[2024.11.24-05.56.11:972][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.12:554][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 366
+[2024.11.24-05.56.12:554][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.12:554][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 356
+[2024.11.24-05.56.12:554][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.12:554][  0]LogMaterial: Display: Missing cached shadermap for MatineeCam_mat in PCD3D_SM5, Default, SM5 (DDC key hash: CE6AB27116B7B53142412116686D424EA9045825), compiling. 
+[2024.11.24-05.56.12:568][  0]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2024.11.24-05.56.13:424][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 346
+[2024.11.24-05.56.13:424][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.13:424][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.11.24-05.56.13:424][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.11.24-05.56.13:424][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.11.24-05.56.13:424][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.11.24-05.56.13:424][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.11.24-05.56.14:027][  0]LogMeshUtilities: Finished distance field build in 0.4s - 14x8x8 distance field, 4528 triangles, Range [-0.1, 0.6], MatineeCam_SM
+[2024.11.24-05.56.14:027][  0]LogNetVersion: Mictlan 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2891474253)
+[2024.11.24-05.56.14:147][  0]LogMaterial: Display: Missing cached shadermap for HelpActorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: C58143BEA2550933B21AFDD698566DB9CF43B5D6), compiling. 
+[2024.11.24-05.56.14:205][  0]LogShaderCompilers: Display: Submitted 78 shader compile jobs with 'Low' priority
+[2024.11.24-05.56.14:329][  0]LogMaterial: Display: Missing cached shadermap for M_ChromeBall in PCD3D_SM5, Default, SM5 (DDC key hash: D9EB063931F155292D756F8E7D7718832F94129D), compiling. 
+[2024.11.24-05.56.14:366][  0]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Low' priority
+[2024.11.24-05.56.14:442][  0]LogMaterial: Display: Missing cached shadermap for DefaultTextMaterialOpaque in PCD3D_SM5, Default, SM5 (DDC key hash: 77029C1D2A6B2A5A261C8D724840326C8B012269), compiling. 
+[2024.11.24-05.56.14:472][  0]LogShaderCompilers: Display: Submitted 38 shader compile jobs with 'Low' priority
+[2024.11.24-05.56.14:527][  0]LogMaterial: Display: Missing cached shadermap for m_SimpleVolumetricCloud in PCD3D_SM5, Default, SM5 (DDC key hash: 335A748058A13A32C4537E30758C195857463673), compiling. 
+[2024.11.24-05.56.14:652][  0]LogShaderCompilers: Display: Submitted 58 shader compile jobs with 'Low' priority
+[2024.11.24-05.56.14:691][  0]LogMaterial: Display: Missing cached shadermap for BaseFlattenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 1E0FF1369B9599A318A0EDA8BED2115527B01AB0), compiling. 
+[2024.11.24-05.56.14:739][  0]LogShaderCompilers: Display: Submitted 58 shader compile jobs with 'Low' priority
+[2024.11.24-05.56.19:689][  0]LogMeshUtilities: Finished distance field build in 0.8s - 64x64x20 distance field, 2048 triangles, Range [-0.0, 1.0], PlanarReflectionPlane
+[2024.11.24-05.56.19:689][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 336
+[2024.11.24-05.56.19:689][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 326
+[2024.11.24-05.56.19:689][  0]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.19:689][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 316
+[2024.11.24-05.56.19:689][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.19:689][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 306
+[2024.11.24-05.56.19:689][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.19:689][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 296
+[2024.11.24-05.56.19:689][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.19:689][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 286
+[2024.11.24-05.56.19:689][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.19:689][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 276
+[2024.11.24-05.56.19:689][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.19:689][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 266
+[2024.11.24-05.56.19:689][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.19:689][  0]LogMaterial: Display: Missing cached shadermap for Xray in PCD3D_SM5, Default, SM5 (DDC key hash: 81E7ABC1B5B1EB7259EE448045725D22D48D5931), compiling. 
+[2024.11.24-05.56.19:704][  0]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2024.11.24-05.56.19:706][  0]LogMaterial: Display: Missing cached shadermap for Main in PCD3D_SM5, Default, SM5 (DDC key hash: 68A97A359FF9121207C484111D33C8B6D44996B7), compiling. 
+[2024.11.24-05.56.19:716][  0]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2024.11.24-05.56.19:837][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough in PCD3D_SM5, Default, SM5 (DDC key hash: 1BF9309544C07C4EE8DC66681547E4EAE6891A12), compiling. 
+[2024.11.24-05.56.19:850][  0]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2024.11.24-05.56.19:870][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Translucent in PCD3D_SM5, Default, SM5 (DDC key hash: F5967555003407EB980908E9F2F86F02264EEACC), compiling. 
+[2024.11.24-05.56.19:882][  0]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Low' priority
+[2024.11.24-05.56.19:884][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Opaque in PCD3D_SM5, Default, SM5 (DDC key hash: 1FE206B82801B78CB6005FE9A7FF172CF2446C07), compiling. 
+[2024.11.24-05.56.19:896][  0]LogShaderCompilers: Display: Submitted 11 shader compile jobs with 'Low' priority
+[2024.11.24-05.56.19:898][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Opaque_OneSided in PCD3D_SM5, Default, SM5 (DDC key hash: 6FE380F8197A88F97C492B2C92ECA0085B8AB72A), compiling. 
+[2024.11.24-05.56.19:904][  0]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2024.11.24-05.56.19:907][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Masked in PCD3D_SM5, Default, SM5 (DDC key hash: 14263D28DA604C1E9C8808DAFEFEDD6520D787C9), compiling. 
+[2024.11.24-05.56.19:928][  0]LogShaderCompilers: Display: Submitted 26 shader compile jobs with 'Low' priority
+[2024.11.24-05.56.19:930][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Masked_OneSided in PCD3D_SM5, Default, SM5 (DDC key hash: C28D8DE913D64FB8B3776B513DC0655C627FE675), compiling. 
+[2024.11.24-05.56.19:952][  0]LogShaderCompilers: Display: Submitted 26 shader compile jobs with 'Low' priority
+[2024.11.24-05.56.19:957][  0]LogMaterial: Display: Missing cached shadermap for Widget3DCameraPassThrough_Opaque_OneSided in PCD3D_SM5, Default, SM5 (DDC key hash: A8FB5DEB5AD70C5FF54C43672B42884CA23AFECA), compiling. 
+[2024.11.24-05.56.19:964][  0]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2024.11.24-05.56.20:046][  0]LogMaterial: Display: Missing cached shadermap for TranslucentTransformGizmoMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: F795B9955D9772985C929F3247C688AD8A9ADA56), compiling. 
+[2024.11.24-05.56.20:057][  0]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2024.11.24-05.56.20:059][  0]LogMaterial: Display: Missing cached shadermap for TransformGizmoMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: E49DE79968A6611BACB12F2BF8DB2BEDC73089E4), compiling. 
+[2024.11.24-05.56.20:066][  0]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2024.11.24-05.56.20:164][  0]LogMaterial: Display: Missing cached shadermap for CineMat in PCD3D_SM5, Default, SM5 (DDC key hash: 3C406A9ABBC73274150AC47B8F7182BBAC60CF0A), compiling. 
+[2024.11.24-05.56.20:191][  0]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2024.11.24-05.56.20:223][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 256
+[2024.11.24-05.56.20:223][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.20:223][  0]LogMaterial: Display: Missing cached shadermap for M_SimpleOpaque in PCD3D_SM5, Default, SM5 (DDC key hash: E520F0566B07BA436FAAC3A8EFF777D2090D7E41), compiling. 
+[2024.11.24-05.56.20:237][  0]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2024.11.24-05.56.20:264][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x14x8 distance field, 6252 triangles, Range [-0.1, 0.6], SM_CineCam
+[2024.11.24-05.56.20:264][  0]LogMaterial: Display: Missing cached shadermap for M_SimpleUnlitTranslucent in PCD3D_SM5, Default, SM5 (DDC key hash: 4F36F54490F0DBF40A6B75CF373BAB6548B2DABA), compiling. 
+[2024.11.24-05.56.20:275][  0]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2024.11.24-05.56.21:227][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 246
+[2024.11.24-05.56.21:227][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.21:227][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 236
+[2024.11.24-05.56.21:227][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.21:227][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 226
+[2024.11.24-05.56.21:227][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.21:227][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 216
+[2024.11.24-05.56.21:227][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.21:227][  0]LogMaterial: Display: Missing cached shadermap for SkySphereMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 2920E0DA098DE16C8F539941B095E2FE5BD92A22), compiling. 
+[2024.11.24-05.56.21:233][  0]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2024.11.24-05.56.21:255][  0]LogMaterial: Display: Missing cached shadermap for FloorPlaneMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: C3E1F880AB8963A1A16B61F8DB0769CB0217F3A4), compiling. 
+[2024.11.24-05.56.21:278][  0]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2024.11.24-05.56.21:279][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2024.11.24-05.56.21:339][  0]LogMaterial: Display: Missing cached shadermap for LandscapeGizmo_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: B82AB7D719CAF4FA62630B76DC8B90D367C91219), compiling. 
+[2024.11.24-05.56.21:360][  0]LogShaderCompilers: Display: Submitted 26 shader compile jobs with 'Low' priority
+[2024.11.24-05.56.21:365][  0]LogMaterial: Display: Missing cached shadermap for LandscapeGizmoHeight_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: C344F49077AE114759A18E65BA3913D220109678), compiling. 
+[2024.11.24-05.56.21:406][  0]LogShaderCompilers: Display: Submitted 55 shader compile jobs with 'Low' priority
+[2024.11.24-05.56.21:411][  0]LogMaterial: Display: Missing cached shadermap for SplineEditorMeshMat in PCD3D_SM5, Default, SM5 (DDC key hash: F1B982FB06CE9F630EE49636E255D1C5FE840636), compiling. 
+[2024.11.24-05.56.21:430][  0]LogShaderCompilers: Display: Submitted 22 shader compile jobs with 'Low' priority
+[2024.11.24-05.56.21:858][  0]LogMeshUtilities: Finished distance field build in 0.7s - 38x38x38 distance field, 12 triangles, Range [-0.6, 0.6], EditorCube
+[2024.11.24-05.56.21:858][  0]LogMeshUtilities: Discarded distance field for SplineEditorMesh as mesh was not closed!  Assign a two-sided material to fix.
+[2024.11.24-05.56.21:858][  0]LogMeshUtilities: Finished distance field build in 0.0s - 15x15x8 distance field, 60 triangles, Range [-0.2, 1.0], SplineEditorMesh
+[2024.11.24-05.56.21:858][  0]LogMaterial: Display: Missing cached shadermap for HairDebugMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 428B7402F0EC51645EFABC6B24366D57F78045CB), compiling. 
+[2024.11.24-05.56.21:964][  0]LogShaderCompilers: Display: Submitted 86 shader compile jobs with 'Low' priority
+[2024.11.24-05.56.21:967][  0]LogMaterial: Display: Missing cached shadermap for HairDefaultMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 7FC399207996EC311E5F69CF742E284D0C61E7A0), compiling. 
+[2024.11.24-05.56.22:032][  0]LogShaderCompilers: Display: Submitted 86 shader compile jobs with 'Low' priority
+[2024.11.24-05.56.22:036][  0]LogMaterial: Display: Missing cached shadermap for HairCardsDefaultMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 2B2C7CE488529E938E82F9D50B39C705FFE3A40B), compiling. 
+[2024.11.24-05.56.22:172][  0]LogShaderCompilers: Display: Submitted 145 shader compile jobs with 'Low' priority
+[2024.11.24-05.56.22:175][  0]LogMaterial: Display: Missing cached shadermap for HairMeshesDefaultMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 3195CFBDB408C6D70D89E162A1EB7F9FD68E47EB), compiling. 
+[2024.11.24-05.56.22:244][  0]LogShaderCompilers: Display: Submitted 86 shader compile jobs with 'Low' priority
+[2024.11.24-05.56.22:268][  0]LogMaterial: Display: Missing cached shadermap for PokeAHoleMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 6431ED8FFE9B1E434A0EA5D30C45DBF74593DE42), compiling. 
+[2024.11.24-05.56.22:278][  0]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2024.11.24-05.56.22:278][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2024.11.24-05.56.22:334][  0]LogUObjectArray: 18050 objects as part of root set at end of initial load.
+[2024.11.24-05.56.22:334][  0]LogUObjectAllocator: 4611168 out of 0 bytes used by permanent object pool.
+[2024.11.24-05.56.22:334][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.11.24-05.56.25:591][  0]LogMeshUtilities: Finished distance field build in 3.6s - 64x64x64 distance field, 3968 triangles, Range [-0.1, 1.0], EditorSkySphere
+[2024.11.24-05.56.26:152][  0]LogMeshUtilities: Finished distance field build in 0.3s - 28x28x38 distance field, 448 triangles, Range [-0.5, 0.6], EditorCylinder
+[2024.11.24-05.56.26:152][  0]LogMeshUtilities: Finished distance field build in 0.1s - 8x38x38 distance field, 32 triangles, Range [-0.1, 1.0], EditorPlane
+[2024.11.24-05.56.26:152][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 206
+[2024.11.24-05.56.26:152][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.27:274][  0]LogMeshUtilities: Finished distance field build in 1.4s - 48x48x48 distance field, 3968 triangles, Range [-0.6, 1.0], EditorSphere
+[2024.11.24-05.56.27:834][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 196
+[2024.11.24-05.56.27:834][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.27:834][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 186
+[2024.11.24-05.56.27:834][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.27:834][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 176
+[2024.11.24-05.56.27:834][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.28:394][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 166
+[2024.11.24-05.56.28:394][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.28:394][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 156
+[2024.11.24-05.56.28:394][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.28:955][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 146
+[2024.11.24-05.56.28:955][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.29:516][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 136
+[2024.11.24-05.56.29:516][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.30:077][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 126
+[2024.11.24-05.56.30:077][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.30:077][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 116
+[2024.11.24-05.56.30:077][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.31:200][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 106
+[2024.11.24-05.56.31:200][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.31:761][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 96
+[2024.11.24-05.56.31:761][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.31:761][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 86
+[2024.11.24-05.56.31:761][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.32:330][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 76
+[2024.11.24-05.56.32:330][  0]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.32:330][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 67
+[2024.11.24-05.56.32:330][  0]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'High' priority
+[2024.11.24-05.56.32:891][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 59
+[2024.11.24-05.56.32:891][  0]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'High' priority
